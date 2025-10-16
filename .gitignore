@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+brief2_env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Compiled / temporary files
+*.pyc
+
+# Optional: saved models
+*.joblib
+*.pkl
